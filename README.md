@@ -1,4 +1,4 @@
-# chat_ap
+# Chat_Application Using MERN
 Creating a chat application with React and Firebase involves several key steps, including setting up the React project, configuring Firebase, creating authentication mechanisms, and implementing real-time chat functionalities with likes chat, delete chats.
 
 Overview
